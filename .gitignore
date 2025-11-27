@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+*/node_modules/
+.pnpm-store/
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.env
+
+# Build
+dist/
+build/
+out/
+.next/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output
+test-results/
+playwright-report/
+
+# Temp
+*.tmp
+.cache/
+
