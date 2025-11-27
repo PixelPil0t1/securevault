@@ -42,7 +42,7 @@
     "dayjs": "^1.11.0",
     "moment": "^2.29.0",
     "lodash": "^4.17.20",
-    "ramda": "^0.29.0",
+    "ramda": "^0.32.0",
     "react-icons": "^4.11.0",
     "@heroicons/react": "^2.0.0",
     "lucide-react": "^0.279.0",
