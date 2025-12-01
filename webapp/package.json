@@ -22,7 +22,7 @@
     "@mui/material": "^5.14.0",
     "@mui/icons-material": "^7.3.5",
     "@chakra-ui/react": "^2.8.0",
-    "@mantine/core": "^6.0.0",
+    "@mantine/core": "^8.3.9",
     "@mantine/hooks": "^8.3.9",
     "react-hook-form": "^7.45.0",
     "zod": "^3.21.0",
