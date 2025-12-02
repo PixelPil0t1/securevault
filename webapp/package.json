@@ -19,7 +19,7 @@
     "framer-motion": "^12.23.24",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
-    "@mui/material": "^5.14.0",
+    "@mui/material": "^7.3.5",
     "@mui/icons-material": "^7.3.5",
     "@chakra-ui/react": "^3.30.0",
     "@mantine/core": "^8.3.9",
